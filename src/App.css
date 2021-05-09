@@ -86,13 +86,20 @@ html, body {
 
 @media (min-width: 1500px) {
   .image {
-    height: 590px;
+    height: 580px;
     position: relative;
     display: block;
   }
 }
 
-@media (max-width: 1499px) and (min-width: 576px) {
+@media (max-width: 1499px) and (min-width: 1200px) {
+  .image {
+    /* display: none; */
+    height: 400px;
+  }
+}
+
+@media (max-width: 1199px) {
   .image {
     display: none;
   }
