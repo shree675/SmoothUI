@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/enshrine-website/static/css/main.2dd6ab46.chunk.css",
+    "main.js": "/enshrine-website/static/js/main.e9f274b7.chunk.js",
+    "main.js.map": "/enshrine-website/static/js/main.e9f274b7.chunk.js.map",
+    "runtime-main.js": "/enshrine-website/static/js/runtime-main.22d05372.js",
+    "runtime-main.js.map": "/enshrine-website/static/js/runtime-main.22d05372.js.map",
+    "static/css/2.cc77c331.chunk.css": "/enshrine-website/static/css/2.cc77c331.chunk.css",
+    "static/js/2.0e130fd9.chunk.js": "/enshrine-website/static/js/2.0e130fd9.chunk.js",
+    "static/js/2.0e130fd9.chunk.js.map": "/enshrine-website/static/js/2.0e130fd9.chunk.js.map",
+    "static/js/3.8c267fa9.chunk.js": "/enshrine-website/static/js/3.8c267fa9.chunk.js",
+    "static/js/3.8c267fa9.chunk.js.map": "/enshrine-website/static/js/3.8c267fa9.chunk.js.map",
+    "index.html": "/enshrine-website/index.html",
+    "static/css/2.cc77c331.chunk.css.map": "/enshrine-website/static/css/2.cc77c331.chunk.css.map",
+    "static/css/main.2dd6ab46.chunk.css.map": "/enshrine-website/static/css/main.2dd6ab46.chunk.css.map",
+    "static/js/2.0e130fd9.chunk.js.LICENSE.txt": "/enshrine-website/static/js/2.0e130fd9.chunk.js.LICENSE.txt",
+    "static/media/car.5f9e5822.png": "/enshrine-website/static/media/car.5f9e5822.png",
+    "static/media/coffee.2bdec942.svg": "/enshrine-website/static/media/coffee.2bdec942.svg",
+    "static/media/icon.c78b8927.png": "/enshrine-website/static/media/icon.c78b8927.png",
+    "static/media/phone.487ec244.png": "/enshrine-website/static/media/phone.487ec244.png",
+    "static/media/poster1.83ebfc54.png": "/enshrine-website/static/media/poster1.83ebfc54.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22d05372.js",
+    "static/css/2.cc77c331.chunk.css",
+    "static/js/2.0e130fd9.chunk.js",
+    "static/css/main.2dd6ab46.chunk.css",
+    "static/js/main.e9f274b7.chunk.js"
+  ]
+}
