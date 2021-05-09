@@ -1,6 +1,8 @@
 # Enshrine Assignment
 ### Shreetesh M
 
+Hosted Website: https://enshrine-shreetesh.herokuapp.com/
+
 ## IMPORTANT
 Please note that backend has been implemented for this website. NodeJS and Express have been used for the backend and MongoDB has been used for the database.  
 However, server.js file does not work in the above mentioned github pages-hosted url, since I do not have knowledge on how to host the server separately from the frontend. 
