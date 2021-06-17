@@ -1,7 +1,5 @@
 # SmoothUI
 
-Hosted Website: https://enshrine-shreetesh.herokuapp.com/
-
 ## About
 SmoothUI is a demonstration of an aesthetic, modern website with fluidic and smooth animations.   
 This is also a basic MERN Stack app.
