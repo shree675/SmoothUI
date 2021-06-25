@@ -14,12 +14,12 @@ If you have creative ideas and implementations to make the UI better, you are fr
 * To run it on you local machine, follow these steps:  
   1. Open a terminal and type  
      ```  
-     npm install
-     npm start
+     $ npm install
+     $ npm start
      ```
   2. (Optional step) Open another terminal in the root directory and type
      ```  
-     node server
+     $ node server
      ```
 * Make changes and implement your ideas
 * Commit and push your changes
